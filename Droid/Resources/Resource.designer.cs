@@ -2412,7 +2412,7 @@ namespace NavDrawer.Droid
 			public const int drawerItemSync = 2131427490;
 			
 			// aapt resource value: 0x7f0b009c
-			public const int drawerLayoutMainMenu = 2131427484;
+			public const int drawerLayout = 2131427484;
 			
 			// aapt resource value: 0x7f0b0066
 			public const int edit_query = 2131427430;
@@ -2517,7 +2517,7 @@ namespace NavDrawer.Droid
 			public const int myButton = 2131427460;
 			
 			// aapt resource value: 0x7f0b009d
-			public const int nav_view = 2131427485;
+			public const int navigationViewMenu = 2131427485;
 			
 			// aapt resource value: 0x7f0b007b
 			public const int navigation_header_container = 2131427451;
