@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Navigation Drawer</string>
+	<string name="title">Navigation Drawer</string>
+	<string name="search">Search</string>
+	<string name="setting">Settings</string>
+    <string name="sync">Synchronise</string>
+    <string name="logout">Logout</string>
+</resources>

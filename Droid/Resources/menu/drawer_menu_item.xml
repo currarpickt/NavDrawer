@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawerItemSearch"
+            android:icon="@drawable/search"
+            android:title="@string/search" />
+        <item
+            android:id="@+id/drawerItemSettings"
+            android:icon="@drawable/setting"
+            android:title="@string/setting" />
+        <item
+            android:id="@+id/drawerItemSync"
+            android:icon="@drawable/sync"
+            android:title="@string/sync" />
+		 <item
+            android:id="@+id/drawerItemLogout"
+            android:icon="@drawable/logout"
+            android:title="@string/logout" />
+    </group>
+</menu>
